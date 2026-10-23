@@ -1,0 +1,1 @@
+# genia-public-assets
